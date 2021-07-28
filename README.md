@@ -49,5 +49,6 @@ After Installation
 * HiddenEye
 * VS CODE
 * Metasploit-Framework
+And many more ...
 
 ## Screenshots
