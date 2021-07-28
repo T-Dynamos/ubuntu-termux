@@ -52,3 +52,7 @@ After Installation
 And many more ...
 
 ## Screenshots
+
+![logo](https://github.com/T-Dynamos/ubuntu-termux/raw/main/Screenshot_2021-07-28-18-36-52-009_com.realvnc.viewer.android.jpg)  <br />
+
+![logo](https://github.com/T-Dynamos/ubuntu-termux/raw/main/Screenshot_2021-07-28-18-48-57-139_com.termux.jpg)  <br />
