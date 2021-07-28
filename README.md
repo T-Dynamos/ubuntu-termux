@@ -1,5 +1,5 @@
 
-![logo](https://github.com/T-Dynamos/termux-pro/raw/main/20210624_162749.png)  <br />
+![logo](https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Emblem.png?__cf_chl_jschl_tk__=pmd_816d111235a3dd34c40780a4f7dedb0d31f9af4b-1627457202-0-gqNtZGzNAk2jcnBszQii)  <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
