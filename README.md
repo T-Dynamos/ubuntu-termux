@@ -15,7 +15,7 @@
 * Download Termux Styling = [Here](https://f-droid.org/repo/com.termux.styling_29.apk)
 # Single Command
 ```
-source <(curl -fsSL https://https://bit.ly/2UWzApp)
+source <(curl -fsSL https://bit.ly/2UWzApp)
 ```
 After Installation
 ```
