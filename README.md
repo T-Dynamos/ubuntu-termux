@@ -32,7 +32,8 @@ After Installation
 [5] exploit         (to start HiddenEye)
 [6] target -t <ip>  (to trace ip location)
 [7] target -m       (to trace your ip)
-[8] startdesktop    (to start vnc server)
+[8] vncserver-start (to start vnc server)
+[9] vncserver-stop. (to stop vnc server)
 
 🇳​​​​​🇴​​​​​🇼​​​​​ 🇼​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇹​​​​​🇴​​​​​ 🇩​​​​​🇴​​​​​
 
