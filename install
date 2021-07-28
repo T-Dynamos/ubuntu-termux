@@ -1,0 +1,9 @@
+cd $HOME
+apt update
+apt install git -y
+apt install python -y 
+apt install wget -y
+wget https://raw.githubusercontent.com/T-Dynamos/ubuntu-termux/main/ubuntu.py
+clear
+python3 ubuntu.py
+rm -rf ubuntu.py
