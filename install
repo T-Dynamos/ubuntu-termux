@@ -7,3 +7,5 @@ wget https://raw.githubusercontent.com/T-Dynamos/ubuntu-termux/main/ubuntu.py
 clear
 python3 ubuntu.py
 rm -rf ubuntu.py
+sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+
