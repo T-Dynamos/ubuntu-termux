@@ -41,3 +41,13 @@ After Installation
 [1] Write Ngrok AuthToken
 [2] Press Ctrl+D or Logout
 ```
+## Features
+* Chromium
+* FireFox
+* Burpsite
+* AdvPhishing
+* HiddenEye
+* VS CODE
+* Metasploit-Framework
+
+## Screenshots
