@@ -11,7 +11,7 @@ try:
 except ModuleNotFoundError:
 	print("Modules is  Not installed")
 	os.system("pip3 install requests tqdm")
-os.system('cd $HOME')
+os.system('cd $HOME && clear')
 from tqdm import tqdm
 def download_file_pg(url):
 	response = requests.get(url, stream=True)
