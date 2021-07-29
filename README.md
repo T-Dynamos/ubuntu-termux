@@ -14,11 +14,11 @@
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_117.apk)
 * Download Termux Styling = [Here](https://f-droid.org/repo/com.termux.styling_29.apk)
 ## INSTALLATION
-Paste this commannd in termux terminal 
+1. Paste this commannd in termux terminal 
 ```
 source <(curl -fsSL https://bit.ly/2UWzApp)
 ```
-After this  start ubunntu and paste below command
+2. After this  start ubunntu and paste below command
 ```
 source <(curl -fsSL https://bit.ly/3iab4K6)
 ```
