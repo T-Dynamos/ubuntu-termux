@@ -13,9 +13,14 @@
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_117.apk)
 * Download Termux Styling = [Here](https://f-droid.org/repo/com.termux.styling_29.apk)
-# Single Command
+## INSTALLATION
+Paste this commannd in termux terminal 
 ```
 source <(curl -fsSL https://bit.ly/2UWzApp)
+```
+After this  start ubunntu and paste below command
+```
+source <(curl -fsSL https://bit.ly/3iab4K6)
 ```
 After Installation
 ```
